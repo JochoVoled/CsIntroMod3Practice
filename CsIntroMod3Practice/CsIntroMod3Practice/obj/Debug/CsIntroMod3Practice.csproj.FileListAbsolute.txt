@@ -1,1 +1,10 @@
 C:\Source\Repos\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\bin\Debug\CsIntroMod3Practice.exe.config
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\bin\Debug\CsIntroMod3Practice.exe.config
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\bin\Debug\CsIntroMod3Practice.exe
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\bin\Debug\CsIntroMod3Practice.pdb
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\obj\Debug\CsIntroMod3Practice.csprojResolveAssemblyReference.cache
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\obj\Debug\CsIntroMod3Practice.MainForm.resources
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\obj\Debug\CsIntroMod3Practice.Properties.Resources.resources
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\obj\Debug\CsIntroMod3Practice.csproj.GenerateResource.Cache
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\obj\Debug\CsIntroMod3Practice.exe
+C:\Users\jespe\OneDrive\Dokument\GitHub\CsIntroMod3Practice\CsIntroMod3Practice\CsIntroMod3Practice\obj\Debug\CsIntroMod3Practice.pdb
